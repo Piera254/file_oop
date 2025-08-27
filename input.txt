@@ -1,0 +1,3 @@
+This is a simple program
+PLP is a major contributor in teaching programming across Africa.
+I love PLP!
